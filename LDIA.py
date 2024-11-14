@@ -3,7 +3,7 @@
 
 	Lie derivative image analysis (LDIA)
 
-	This calculation cord provides:
+	This calculation code provides:
 
 	(1) LDIA calculation for input two .csv image files (2D array)
 		and output .csv images including the following value as a list
