@@ -29,8 +29,6 @@
 
 	This calculation code is licensed under Apache License 2.0 
 
-	(c) Yusuke Anetai
-
 ### """""""""
 
 ### Requirement
