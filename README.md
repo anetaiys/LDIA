@@ -21,7 +21,7 @@
 
 	If a researcher use this code, please refer to
 
-		Ectracting the gradient component of the gamma index
+		Extracting the gradient component of the gamma index
 		using the Lie derivative method
 		(doi: 10.1088/1361-6560/acf990)
 	
