@@ -1,8 +1,12 @@
 # LDIA
-Lie derivative image analysis
+## Lie derivative image analysis
+	LDIA is an image processing tool to obtain deviation vector field 
+ 	between two image flows according to Lie derivative
 
-# # # # # # # # # # # # # # # # # # # # # # # # #
-"""
+## - - - - - - - - - - - - - - - - - - - - - - - -
+
+### Overview
+### """""""""
 
 	Lie derivative image analysis (LDIA)
 
@@ -27,5 +31,32 @@ Lie derivative image analysis
 
 	(c) Yusuke Anetai
 
-"""
-# # # # # # # # # # # # # # # # # # # # # # # # #
+### """""""""
+
+### Requirement
+### """"""""""""
+	numpy
+ 	csv
+  	math
+	tkinter
+ 	numpy
+
+### Install
+### """"""""""""
+	No install method.
+
+### Usage
+### """""""""
+	Import LDIA and create instance of LDIA class in your code.
+	Then, start DiffusionEquationQuantificationModule(img1, img2, dx, dy).
+	Input two same shape (rows and columns) .csv image files (img1, img2).
+ 	Typically, calculation grid size dx and dy are usually 1.0.
+
+### License
+### """""""""
+	Apache License 2.0 
+
+### Author
+### """""""""
+	Yusuke Anetai 
+ 	anetaiys (atmark) hirakata.kmu.ac.jp
