@@ -47,7 +47,7 @@
 	Import LDIA and create instance of LDIAcalc class in your code.
 	Then, start LieDerivativeModule(img1, img2, dx, dy).
 	Input two same shape (rows and columns) .csv image files (img1, img2).
- 	Typically, calculation grid size dx and dy are usually 1.0.
+ 	Usually, calculation grid size dx and dy are 1.0.
 
 ### License
 ### """""""""
