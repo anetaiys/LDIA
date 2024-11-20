@@ -37,7 +37,6 @@
  	csv
   	math
 	tkinter
- 	numpy
 
 ### Install
 ### """"""""""""
