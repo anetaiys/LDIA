@@ -17,8 +17,12 @@
 		Extracting the gradient component of the gamma index
 		using the Lie derivative method
 		(doi: 10.1088/1361-6560/acf990)
+
+  		Diffusion equation quantification: selective enhancement algorithm
+		for bone metastasis lesions in CT images
+		(doi: 10.1088/1361-6560/ad965c)
 	
-	and include the reference.
+	and include the references.
 
 	This calculation code is licensed under Apache License 2.0 
 
